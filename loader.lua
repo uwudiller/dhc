@@ -22,4 +22,4 @@ getgenv().farmSettings = {
         ["HopOnBotDetection"] = true -- или false
     },
 }
-loadstring(game:HttpGet("https://pastebin.com/raw/VwbWzg4J"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uwudiller/dhc/refs/heads/main/main.lua"))()
